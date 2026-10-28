@@ -1,0 +1,47 @@
+[
+    {
+        "id": "TICK-001",
+        "customer": "rohith p s",
+        "text": "I was charged twice for my monthly subscription this month! Please refund the extra charge immediately.",
+        "success": true,
+        "category": "Billing",
+        "urgency": "High",
+        "suggested_action": "Verify the double charge in the billing system and issue a refund for the duplicate transaction."
+    },
+    {
+        "id": "TICK-002",
+        "customer": "tony stark",
+        "text": "Every time I click the 'Export to CSV' button on the dashboard, the page goes completely blank and throws a 500 error.",
+        "success": true,
+        "category": "Technical Bug",
+        "urgency": "High",
+        "suggested_action": "Investigate the server logs for the 500 error triggered by the CSV export endpoint and notify the engineering team."
+    },
+    {
+        "id": "TICK-003",
+        "customer": "steve rogers ",
+        "text": "Hi team, what are your standard support hours over the upcoming weekend holidays?",
+        "success": true,
+        "category": "General Question",
+        "urgency": "Low",
+        "suggested_action": "Reply to the customer with the standard weekend holiday support hours."
+    },
+    {
+        "id": "TICK-004",
+        "customer": "bruce banner",
+        "text": "My team cannot log into the workspace since this morning. It says password incorrect even after resetting it twice.",
+        "success": true,
+        "category": "Account Access",
+        "urgency": "High",
+        "suggested_action": "Verify the user's account status, check for directory sync issues, and manually reset credentials if necessary."
+    },
+    {
+        "id": "TICK-005",
+        "customer": "henry cavil",
+        "text": "Can we upgrade our current plan to include custom branding options? Let me know the steps.",
+        "success": true,
+        "category": "Feature Request",
+        "urgency": "Low",
+        "suggested_action": "Provide the customer with the pricing details and steps required to upgrade their plan for custom branding."
+    }
+]
